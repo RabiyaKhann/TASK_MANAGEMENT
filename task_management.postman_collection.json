@@ -1,0 +1,26 @@
+{
+	"info": {
+		"_postman_id": "ce786ed4-e1a3-441d-a006-c02f8caeb4b5",
+		"name": "task_management",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "37227135"
+	},
+	"item": [
+		{
+			"name": "tasks",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "TASK\\",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
